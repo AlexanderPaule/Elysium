@@ -1,6 +1,6 @@
 # Appollo
 
-Interactive Star System Environment build in Angular2, typescript, ThreeJS
+Interactive Project for Exploration of the Stars and Their Planets Built in Angular 2, Typecript, Three JS
 
-Click link for runnable project
-http://www.appollo.altervista.org/
+Click link for live project
+https://alexanderpaule.github.io/Elysium/
