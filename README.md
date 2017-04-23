@@ -1,4 +1,4 @@
-# Appollo
+# Elysium
 
 The project has as its ultimate goal the simulation of a dynamic universe that suits the changes. Each element adapts its own behavior and looks based on its elements and the environment in which it is located.
 
